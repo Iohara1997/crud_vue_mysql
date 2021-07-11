@@ -14,7 +14,7 @@ API CRUD produzida para cadastro de localizações.
 * **[Postman](https://www.getpostman.com/)**
 * **[MySQL](https://www.mysql.com/downloads/)**
 
-### O projeto foi separado em dois diretórios, para seu funcionamento, é necessário executar ambos, conforme descrito a seguir:
+### O projeto foi separado em dois diretórios, para seu funcionamento é necessário executar ambos, conforme descrito a seguir:
 #### Na pasta raiz do projeto, digite na linha de comando:
 * `npm run start` inclui o backend; e
 #### Na pasta raiz do front-vue-v2, digite na linha de comando:
